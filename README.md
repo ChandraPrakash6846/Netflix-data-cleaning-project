@@ -62,9 +62,8 @@ Mixed Date Formats: Present
 
 netflix_project/  
 ├── Netflix_Data_Cleaning_Project.xlsx   
-├── PRESENTATION_PROMPT_FOR_OTHER_AI.txt  
-├── README.md  
-└── clean_data_excel.py  
+├── PRESENTATION   
+└── README.md    
 
 ## Contact
 Chandra Prakash Choudhary  
