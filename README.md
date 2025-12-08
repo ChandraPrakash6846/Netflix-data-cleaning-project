@@ -43,13 +43,14 @@ Mixed Date Formats: Present
 7. Validating Data Types  
 
 ## Deliverables
-- Excel Workbook (7 Sheets)  
-- Cleaned Dataset  
-- Data Quality Report  
-- Missing Values Analysis  
-- Summary of Changes  
-- Column Information  
-- Python Scripts  
+- Project Info
+- Original Data
+- Cleaned Data
+- Data Quality Report
+- Missing Values Analysis
+- Summary of Changes
+- Column Information
+
 
 ## How to Reproduce  
 1. Download netflix_titles.csv  
