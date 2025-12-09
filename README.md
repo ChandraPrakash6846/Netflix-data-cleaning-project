@@ -66,7 +66,6 @@ netflix_project/
 └── README.md    
 
 ## Contact
-Chandra Prakash Choudhary  
-GitHub: https://github.com/ChandraPrakash6846/  
+Chandra Prakash Choudhary   
 LinkedIn: https://www.linkedin.com/in/chandra-prakash-choudhary-17b96b212/
 
